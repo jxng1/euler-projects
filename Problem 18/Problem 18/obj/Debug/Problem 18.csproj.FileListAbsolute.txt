@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 18\Problem 18\bin\Debug\Problem 18.exe.config
+B:\Visual Studio 2019\Problem 18\Problem 18\bin\Debug\Problem 18.exe
+B:\Visual Studio 2019\Problem 18\Problem 18\bin\Debug\Problem 18.pdb
+B:\Visual Studio 2019\Problem 18\Problem 18\obj\Debug\Problem 18.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 18\Problem 18\obj\Debug\Problem 18.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 18\Problem 18\obj\Debug\Problem 18.exe
+B:\Visual Studio 2019\Problem 18\Problem 18\obj\Debug\Problem 18.pdb
