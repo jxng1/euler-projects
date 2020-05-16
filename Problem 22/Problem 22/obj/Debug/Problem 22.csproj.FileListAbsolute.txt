@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 22\Problem 22\bin\Debug\Problem 22.exe.config
+B:\Visual Studio 2019\Problem 22\Problem 22\bin\Debug\Problem 22.exe
+B:\Visual Studio 2019\Problem 22\Problem 22\bin\Debug\Problem 22.pdb
+B:\Visual Studio 2019\Problem 22\Problem 22\obj\Debug\Problem 22.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 22\Problem 22\obj\Debug\Problem 22.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 22\Problem 22\obj\Debug\Problem 22.exe
+B:\Visual Studio 2019\Problem 22\Problem 22\obj\Debug\Problem 22.pdb

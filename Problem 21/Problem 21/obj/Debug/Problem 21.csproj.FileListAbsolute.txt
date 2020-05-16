@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 21\Problem 21\obj\Debug\Problem 21.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 21\Problem 21\obj\Debug\Problem 21.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 21\Problem 21\bin\Debug\Problem 21.exe.config
+B:\Visual Studio 2019\Problem 21\Problem 21\bin\Debug\Problem 21.exe
+B:\Visual Studio 2019\Problem 21\Problem 21\bin\Debug\Problem 21.pdb
+B:\Visual Studio 2019\Problem 21\Problem 21\obj\Debug\Problem 21.exe
+B:\Visual Studio 2019\Problem 21\Problem 21\obj\Debug\Problem 21.pdb
