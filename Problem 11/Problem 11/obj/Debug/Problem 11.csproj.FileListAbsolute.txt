@@ -1,0 +1,7 @@
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\bin\Debug\Problem 11.exe.config
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\bin\Debug\Problem 11.exe
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\bin\Debug\Problem 11.pdb
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\obj\Debug\Problem 11.csprojAssemblyReference.cache
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\obj\Debug\Problem 11.csproj.CoreCompileInputs.cache
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\obj\Debug\Problem 11.exe
+C:\Users\jiaxu\source\repos\Problem 11\Problem 11\obj\Debug\Problem 11.pdb
