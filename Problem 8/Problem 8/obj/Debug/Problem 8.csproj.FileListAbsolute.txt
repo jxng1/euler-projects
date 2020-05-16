@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 8\Problem 8\bin\Debug\Problem 8.exe.config
+B:\Visual Studio 2019\Problem 8\Problem 8\bin\Debug\Problem 8.exe
+B:\Visual Studio 2019\Problem 8\Problem 8\bin\Debug\Problem 8.pdb
+B:\Visual Studio 2019\Problem 8\Problem 8\obj\Debug\Problem 8.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 8\Problem 8\obj\Debug\Problem 8.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 8\Problem 8\obj\Debug\Problem 8.exe
+B:\Visual Studio 2019\Problem 8\Problem 8\obj\Debug\Problem 8.pdb
