@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 36\Problem 36\bin\Debug\Problem 36.exe.config
+B:\Visual Studio 2019\Problem 36\Problem 36\bin\Debug\Problem 36.exe
+B:\Visual Studio 2019\Problem 36\Problem 36\bin\Debug\Problem 36.pdb
+B:\Visual Studio 2019\Problem 36\Problem 36\obj\Debug\Problem 36.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 36\Problem 36\obj\Debug\Problem 36.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 36\Problem 36\obj\Debug\Problem 36.exe
+B:\Visual Studio 2019\Problem 36\Problem 36\obj\Debug\Problem 36.pdb
