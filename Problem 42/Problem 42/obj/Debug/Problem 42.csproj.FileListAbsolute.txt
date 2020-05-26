@@ -1,0 +1,7 @@
+B:\Visual Studio 2019\Problem 42\Problem 42\bin\Debug\Problem 42.exe.config
+B:\Visual Studio 2019\Problem 42\Problem 42\bin\Debug\Problem 42.exe
+B:\Visual Studio 2019\Problem 42\Problem 42\bin\Debug\Problem 42.pdb
+B:\Visual Studio 2019\Problem 42\Problem 42\obj\Debug\Problem 42.csprojAssemblyReference.cache
+B:\Visual Studio 2019\Problem 42\Problem 42\obj\Debug\Problem 42.csproj.CoreCompileInputs.cache
+B:\Visual Studio 2019\Problem 42\Problem 42\obj\Debug\Problem 42.exe
+B:\Visual Studio 2019\Problem 42\Problem 42\obj\Debug\Problem 42.pdb
